@@ -1,0 +1,22 @@
+review client side storage options and utility
+
+introduce server side storage & processing w/ firebase
+
+familarize with API (properties & methods) of storeage & retrieval routines in FB (the other ones)
+
+Introduce concept of presence
+
+Firebase
+
+
+experience a real world aapp dev scenario
+    utilizing html css, js, DBs and data manipulation
+
+Creating lists & children using firebase
+
+introduce moment js library for date manipulation
+
+Parsing vs. executing. Understanding what exists in the code, vs trying to actually make the app run
+
+
+easy falseys are "  ", 0, (false, boolean), undefined, NAN (not a number / object)
